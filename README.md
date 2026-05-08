@@ -6,8 +6,8 @@ Glue Blocks is a free falling-block game where the shapes you build become futur
 
 This build is singleplayer and includes a funky chiptune-inspired track. Multiplayer is not available in this build, but may be added later if there is time or enough demand.
 
-[Download the latest Windows installer](https://github.com/pwlot/glueblocks/releases/latest)  
-[Glue Blocks site](https://www.glueblocks.com/)
+[Download the latest Windows installer](https://github.com/pwlot/glueblocks/releases/latest)<br>
+[Glue Blocks site](https://www.glueblocks.com/)<br>
 [My site](https://www.pwlot.com/)
 
 ![Glue Blocks gameplay](assets/gameplay-glued-deck.gif)
