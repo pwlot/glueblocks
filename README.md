@@ -7,7 +7,7 @@ Glue Blocks is a falling-block puzzle game where you can glue placed blocks toge
 [Download the latest Windows installer](https://github.com/pwlot/glue-blocks-releases/releases/latest)  
 [Glue Blocks site](https://www.glueblocks.com/)
 
-![Glue Blocks screenshot](assets/screenshot-1.jpg)
+![Glue Blocks gameplay](assets/gameplay-glued-deck.gif)
 
 ## How It Works
 
@@ -18,7 +18,17 @@ Glue Blocks is a falling-block puzzle game where you can glue placed blocks toge
 5. Bigger glued pieces can create bigger score multipliers, but they are harder to place safely.
 6. Modes change the well shape, piece rules, gravity, and glue constraints.
 
+## Gameplay
+
+![Glue Blocks modes](assets/gameplay-modes.gif)
+
+![Glue Blocks exotic well](assets/gameplay-exotic-well.gif)
+
+Multiplayer is not available in this build. It may be added in a future build if I have time to do it, or if there is a lot of demand.
+
 ## Screenshots
+
+![Glue Blocks screenshot 1](assets/screenshot-1.jpg)
 
 ![Glue Blocks screenshot 2](assets/screenshot-2.jpg)
 
