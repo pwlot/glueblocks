@@ -2,9 +2,11 @@
 
 ![Glue Blocks](assets/logo-readme.png)
 
-Glue Blocks is a falling-block puzzle game where you can glue placed blocks together. Glued clusters enter your drop cycle as new pieces, so a useful shape can save a run later, while an awkward oversized shape can become the thing that buries you.
+Glue Blocks is a free falling-block game where the shapes you build become future pieces. Glue blocks into custom clusters, add them to your deck, and survive the consequences in shifting wells and gravity modes.
 
-[Download the latest Windows installer](https://github.com/pwlot/glue-blocks-releases/releases/latest)  
+This build is singleplayer and includes a funky chiptune-inspired track. Multiplayer is not available in this build, but may be added later if there is time or enough demand.
+
+[Download the latest Windows installer](https://github.com/pwlot/glueblocks/releases/latest)  
 [Glue Blocks site](https://www.glueblocks.com/)
 
 ![Glue Blocks gameplay](assets/gameplay-glued-deck.gif)
@@ -24,8 +26,6 @@ Glue Blocks is a falling-block puzzle game where you can glue placed blocks toge
 
 ![Glue Blocks exotic well](assets/gameplay-exotic-well.gif)
 
-Multiplayer is not available in this build. It may be added in a future build if I have time to do it, or if there is a lot of demand.
-
 ## Screenshots
 
 ![Glue Blocks screenshot 1](assets/screenshot-1.jpg)
@@ -34,11 +34,13 @@ Multiplayer is not available in this build. It may be added in a future build if
 
 ![Glue Blocks screenshot 3](assets/screenshot-3.jpg)
 
+![Glue Blocks screenshot 4](assets/screenshot-4.jpg)
+
 ## Download
 
 Windows builds are distributed through GitHub Releases. The Unity project source is not published here.
 
-Latest release: [Glue Blocks releases](https://github.com/pwlot/glue-blocks-releases/releases/latest)
+Latest release: [Glue Blocks releases](https://github.com/pwlot/glueblocks/releases/latest)
 
 ## Publisher
 
