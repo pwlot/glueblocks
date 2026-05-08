@@ -12,14 +12,21 @@ This build is singleplayer and includes a funky chiptune-inspired track. Multipl
 
 ![Glue Blocks gameplay](assets/gameplay-glued-deck.gif)
 
-## How It Works
+## How to Play
 
-1. Place falling pieces into the well.
-2. Clear complete lines to keep space open.
-3. Glue connected blocks into larger custom pieces.
-4. Glued pieces are added to the drop cycle.
-5. Bigger glued pieces can create bigger score multipliers, but they are harder to place safely.
-6. Modes change the well shape, piece rules, gravity, and glue constraints.
+Move and rotate falling blocks into the well, then clear filled lines or pockets depending on the mode. Gravity is not always down: some modes pull pieces up, left, right, or across multi-direction wells. In multi-direction modes, your first few moves are free, then the piece locks into the direction you chose.
+
+Glue landed blocks that touch each other with the Glue button. Keyboard default is `F`; gamepad default is `Y` / Triangle. Most modes let you glue at any time, and it is usually better to start early so your deck fills with usable custom pieces instead of waiting for a perfect shape.
+
+Each mode has a deck limit and a maximum glued-block size. Some modes make you build your glued deck before you can clear lines, so watch the mode rules. Monster Mode allows huge glued blocks, but big pieces can be as dangerous as they are powerful.
+
+Some modes allow reglue: a glued piece can land and then be glued into an even larger shape. Other modes disable it, so check the icons, mode info, and controls screen before a run.
+
+## Controls
+
+Keyboard: move with `WASD` / arrows, hard drop with `Space`, rotate with `E` / `K` and `Q` / `J`, glue with `F`, hold with `C`, release hold with `V`, rotate well with `R` / `T`, pause with `Esc`.
+
+Gamepad: move with D-pad / left stick, hard drop with `RB/R1` or `A/Cross`, rotate with face buttons or shoulders, glue with `Y/Triangle`, hold/release hold with triggers, rotate well with right stick, pause with Start/Menu.
 
 ## Gameplay
 
