@@ -8,6 +8,7 @@ This build is singleplayer and includes a funky chiptune-inspired track. Multipl
 
 [Download the latest Windows installer](https://github.com/pwlot/glueblocks/releases/latest)  
 [Glue Blocks site](https://www.glueblocks.com/)
+[My site](https://www.pwlot.com/)
 
 ![Glue Blocks gameplay](assets/gameplay-glued-deck.gif)
 
