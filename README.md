@@ -52,4 +52,4 @@ Latest release: [Glue Blocks releases](https://github.com/pwlot/glueblocks/relea
 
 ## Publisher
 
-Published by [Pawel Pachniewski / Pwlot](https://www.pwlot.com/).
+Published by [Pwlot](https://www.pwlot.com/).
